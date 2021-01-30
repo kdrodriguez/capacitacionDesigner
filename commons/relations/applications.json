@@ -1,0 +1,48 @@
+{
+	"APP_CAPACITAONC_457": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 2,
+					"moduleId": "INTRD",
+					"name": "FormEstadoCivil",
+					"subModuleId": "CMBOS",
+					"taskId": "T_INTRDBANOJWGX_697",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "INTRD",
+					"name": "Calculadora",
+					"subModuleId": "OPRCN",
+					"taskId": "T_INTRDTGGRJEYF_486",
+					"type": "Simple form"
+				},
+				{
+					"generated": 2,
+					"moduleId": "INTRD",
+					"name": "FormularioCuentas",
+					"subModuleId": "FRMCN",
+					"taskId": "T_INTRDYRASIXRJ_820",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "Capacitacion",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_CAPACITAONC_457",
+		"mainPortletTaskId": "T_INTRDTGGRJEYF_486",
+		"modules": [
+			"INTRD"
+		],
+		"name": "Capacitacion"
+	}
+}
